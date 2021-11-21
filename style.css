@@ -13,3 +13,16 @@ body{
   width: 70px;
   height:20;
 }
+.header{
+ display: flex; 
+ justify-content: space-between;
+ align-items: center;
+}
+button{
+  padding: 16px 37px;
+  background:  #F6762C;
+  ;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
