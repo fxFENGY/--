@@ -13,6 +13,19 @@ body{
   width: 70px;
   height:20;
 }
+.container{
+    background-image: url(https://www.bodo.ua/resize/upload/files/cm-experience/104/103868/images_file/all_all_big-t1591950914-r1w768h425q90zc1.jpg);
+    height: 817px;
+    background-size: cover;
+}
+.banner{
+    color: white;
+    font-size: 20px;
+    padding: 250px;
+    width: 465px;
+}
+.banner p{
+    opacity: 0.7;
 .header{
  display: flex; 
  justify-content: space-between;
