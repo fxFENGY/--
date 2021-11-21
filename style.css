@@ -26,3 +26,19 @@ button{
   border: none;
   border-radius: 5px;
 }
+.card p{
+  color:grey;
+  
+}
+.burgers{
+ display: flex
+ ;
+ justify-content: center;
+ 
+}
+.card{
+  background: #312F30;
+border-radius: 10px;
+width: 263px;
+margin: 10px;
+}
